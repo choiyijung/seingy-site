@@ -2,3 +2,12 @@
 *.tmp
 Thumbs.db
 .DS_Store
+
+add_shop_links.py
+build_numeric_shops.py
+build_sitemap.py
+add_favicon_shop_pages.py
+compact_company_cards.py
+rewrite_region_seo.py
+rewrite_shop_seo.py
+style_shop_pages.py
